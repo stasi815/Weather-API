@@ -1,0 +1,15 @@
+.weather-display {
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.15em;
+    font-weight: bold;
+}

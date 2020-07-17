@@ -1,0 +1,12 @@
+.App {
+  min-height: calc(100vh - 153px);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 1em;
+}
+
+.input-form {
+  align-self: center;
+}
+
